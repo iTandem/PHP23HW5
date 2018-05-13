@@ -6,7 +6,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
+  <title>Контакты</title>
   <style>
     * {
       font-family: Helvetica, sans-serif;
